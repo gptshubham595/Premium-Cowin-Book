@@ -1,0 +1,31 @@
+.btn-outline-primary {
+    background-color: white;
+    color: rgb(13, 110, 253);
+    border-color: rgb(13, 110, 253);
+}
+.btn-outline-primary:hover {
+    background-color: transparent;
+    color: rgb(13, 110, 253);
+    border-color: rgb(13, 110, 253);
+}
+.modal-title{
+    margin:0 auto !important;
+}
+.form-text {
+    margin-top: 0.5rem;
+    font-size: 0.775em;
+}
+.col{
+    padding: 0.5em 2em !important;
+}
+.modal-footer{
+    justify-content:center;
+}
+#adimgbutton:hover{text-decoration:underline !important;}
+#adimgbutton{
+    background: #ffff00; position: sticky; top:90vh; left: 0;font-size: 5vh;height:10vh;width:100vw;font-weight:bold;color:rgb(220, 53, 69);
+}
+#frame-video-ad{
+    border: 1px solid white !important;
+
+}
